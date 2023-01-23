@@ -29,15 +29,17 @@
   border: 2px solid black;
   font-size: 1rem;
   width: 100%;
+  background: grey
+  ;
 }
 
-#section-1{
+#title-1{
   background-color: indianred;
 }
-#section-2{
+#title-2{
   background-color: cadetblue;
 }
-#section-3{
+#title-3{
   background-color: bisque;
 }
 
