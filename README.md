@@ -6,3 +6,4 @@ Link to the Course [Html-CSS-Javascript-for-web-developers](https://www.coursera
 2. [Mod 2 Assignment](https://mayank-jain-1.github.io/Coursera-WebDev-Course/Mod-2-Assignment/)
 3. [Mod 3 Assignment](https://mayank-jain-1.github.io/Coursera-WebDev-Course/Mod-3-Assignment/)
 4. [Mod 4 Assignment](https://mayank-jain-1.github.io/Coursera-WebDev-Course/Mod-4-Assignment/)
+5. [Mod 5 Assignment](https://mayank-jain-1.github.io/Coursera-WebDev-Course/Mod-5-Assignment/)
